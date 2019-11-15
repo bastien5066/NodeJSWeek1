@@ -36,7 +36,12 @@ $ npm install
 Go to the project directory, and run the command : 
 
 ```sh
-$ npm run dev app.js
+$ npm run dev index.js
+```
+
+Then, open your Internet browser and enter the following URL :
+ ```sh
+$ http://localhost:8080/
 ```
 
 ## Contributors
